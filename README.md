@@ -11,6 +11,7 @@
   <a href="https://discordpy.readthedocs.io/"><img src="https://img.shields.io/badge/discord.py-2.4+-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord.py"></a>
   <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-7-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"></a>
   <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Compose"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-2B140F?style=for-the-badge" alt="License MIT"></a>
 </p>
 
 <p align="center">
@@ -232,7 +233,9 @@ CafeDaily-Bot/
 
 ## Licença
 
-Defina a licença do projeto conforme a política da sua organização.
+Este projeto está sob a licença **MIT**. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+Copyright © 2026 [Ariel Sousa](https://github.com/aethos-tech) · [Aethos Tech](https://github.com/aethos-tech)
 
 ---
 
